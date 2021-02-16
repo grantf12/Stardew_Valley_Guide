@@ -1,0 +1,73 @@
+[
+    {
+        "Name": "Jazz Seeds",
+        "Harvest Time": 7,
+        "Pierre Price": 30,
+        "JojoMart Price": 37,
+        "Selling Price": 50
+    },
+    {
+        "Name": "Cauliflower Seeds",
+        "Harvest Time": 12,
+        "Pierre Price": 80,
+        "JojoMart Price": 100,
+        "Selling Price": 175
+    },
+    {
+        "Name": "Garlic",
+        "Harvest Time": 4,
+        "Pierre Price": 40,
+        "JojoMart Price": 0,
+        "Selling Price": 60
+    },
+    {
+        "Name": "Green Beans",
+        "Harvest Time": 10,
+        "Pierre Price": 60,
+        "JojoMart Price": 75,
+        "Selling Price": 40,
+        "Regrowth": 3
+    },
+    {
+        "Name": "Kale",
+        "Harvest Time": 6,
+        "Pierre Price": 70,
+        "JojoMart Price": 87,
+        "Selling Price": 110
+    },
+    {
+        "Name": "Parsnip",
+        "Harvest Time": 4,
+        "Pierre Price": 20,
+        "JojoMart Price": 25,
+        "Selling Price": 35
+    },
+    {
+        "Name": "Potato",
+        "Harvest Time": 6,
+        "Pierre Price": 50,
+        "JojoMart Price": 62,
+        "Selling Price": 80
+    },
+    {
+        "Name": "Tulip",
+        "Harvest Time": 6,
+        "Pierre Price": 20,
+        "JojoMart Price": 25,
+        "Selling Price": 30
+    },
+    {
+        "Name": "Unmilled Rice (Unirrigated)",
+        "Harvest Time": 8,
+        "Pierre Price": 40,
+        "JojoMart Price": 0,
+        "Selling Price": 30
+    },
+    {
+        "Name": "Unmilled Rice (Irrigated)",
+        "Harvest Time": 6,
+        "Pierre Price": 40,
+        "JojoMart Price": 0,
+        "Selling Price": 30
+    }
+]
